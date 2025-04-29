@@ -165,19 +165,19 @@ App de notas
 # Corriendo el proyecto
 
 <div v-click>
-👉 Clonar o descargar repo
+👉 Clonar o descargar monorepo
 </div>
 <div v-click>
-👉 Abrir la carpeta <code>demo</code> con VSCode
+👉 Abrir la monorepo con VSCode
 </div>
 <div v-click>
-👉 Instalar dependencias <code>pnpm i</code>
+👉 Instalar dependencias con <code>pnpm i</code>
 </div>
 <div v-click>
-👉 En una nueva terminal, correr el backend <code>pnpm --filter demo-server dev</code>
+👉 En una nueva terminal, correr el backend con <code>pnpm --filter demo-server dev</code>
 </div>
 <div v-click>
-👉 En una nueva terminal, correr el frontend<code>pnpm --filter demo-client dev</code>
+👉 En una nueva terminal, correr el frontend con <code>pnpm --filter demo-client dev</code>
 </div>
 
 ---

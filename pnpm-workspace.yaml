@@ -1,0 +1,5 @@
+packages:
+  - "demo-client"
+  - "demo-server"
+  - "demo-start"
+  - "slides"
